@@ -26,4 +26,10 @@ public class CreateContactTest {
 		System.out.println("modification is done");
 		
 	}
+	
+	@Test
+	public void deleteContactTest() {
+		System.out.println("delete create contact");
+		
+	}
 }
